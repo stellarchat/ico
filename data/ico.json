@@ -1,0 +1,13 @@
+{
+	ongoing: [
+		{
+			name : 'XRP',
+			code : 'XRP',
+			issuer : 'GCRZVVLKKGB6GX4D64PZQL5LFQJBA7NQHSY3S5WVQYWXUFXDDYZFOXRP',
+			description    : 'Use XRP in Ripple to get XRP in Stellar',
+			description_cn : '用瑞波里的XRP一比一换'
+		}
+	],
+	prepare: [],
+	closed:  []
+}
