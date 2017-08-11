@@ -1,11 +1,26 @@
 {
   "ongoing": [
     {
-      "name": "XRP",
-      "code": "XRP",
-      "issuer": "GCRZVVLKKGB6GX4D64PZQL5LFQJBA7NQHSY3S5WVQYWXUFXDDYZFOXRP",
-      "description": "Use XRP in Ripple to get XRP in Stellar",
-      "description_cn": "用瑞波里的XRP一比一换"
+      "name": "Mobius",
+      "name_cn": "Mobius",
+      "website": "https://mobius.network",
+      "code": "MOBI",
+      "issuer": "GDCIUCGL7VEMMF6VYJOW75KQ5ZCLHAQBRM6EPFTKCRWUYVUOOYQCKC5A",
+      "p1": "Mobius closes the gap between the internet world and blockchain world through innovative and simple protocols that introduce new standards for cross-blockchain login, payment, governance, and oracles.",
+      "p1_cn": "Mobius是一个跨链支付解决方案。包括一套跨链通用协议API和DApp Store。",
+      "p2": "Due to unprecedentd demand the Mobius Token is sold out and the pre-sale is closed. The public sale will start on Nov 8.",
+      "p2_cn": "预售被意料之外的需求包圆了。下一轮公开出售将在11月8日进行。"
+    },
+    {
+      "name": "E-GIFT Card",
+      "name_cn": "E-GIFT Card",
+      "website": "https://gft.network",
+      "code": "GFT",
+      "issuer": "GAAZUE4PKMKLA7QC2MPUIUXY7BZK2WUCK7Q5EELSDLK4FE3X4DZTSCKN",
+      "p1": "GFT is an asset based on the Stellar blockchain. Each gift card is backed by US dollars and contains the equivalent amount of the GFT tokens (i.e. 1 GFT = 1 USD).",
+      "p1_cn": "GFT是基于恒星的电子礼品卡。每个GFT都相当于1美元的礼品卡。",
+      "p2": "Promotional presale ends Aug 25. 75% OFF for 3M GFT.",
+      "p2_cn": "预售将持续到8月25日。将以2.5折出售3百万GFT。"
     }
   ],
   "prepare": [],
