@@ -21,6 +21,17 @@
       "p1_cn": "GFT是基于恒星的电子礼品卡。每个GFT都相当于1美元的礼品卡。",
       "p2": "Promotional presale ends Aug 25. 75% OFF for 3M GFT.",
       "p2_cn": "预售将持续到8月25日。将以2.5折出售3百万GFT。"
+    },
+    {
+      "name": "Smartlands",
+      "name_cn": "Smartands",
+      "website": "https://smartlands.io/",
+      "code": "SLT",
+      "issuer": "GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP",
+      "p1": "Smartlands platform is designed to create a new class of low-risk future-proof tokens, secured by real, profitable assets in agriculture.",
+      "p1_cn": "Smartlands平台计划做一个低成本的长期的农业代币，具体介绍看他们网站。",
+      "p2": "Total supply 100,000,000 SLT. ICO last 15 days.",
+      "p2_cn": "总量1亿。ICO持续15天。"
     }
   ],
   "prepare": [],
