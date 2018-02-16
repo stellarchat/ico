@@ -1,0 +1,22 @@
+{
+  "name": "ico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellarchat/ico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stellarchat/ico/issues"
+  },
+  "homepage": "https://github.com/stellarchat/ico#readme",
+  "dependencies": {
+    "stellar-sdk": "^0.8.0"
+  }
+}
