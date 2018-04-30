@@ -12,6 +12,28 @@
       "p2_cn": "2018年1月18日开始公开交易。"
     },
     {
+      "name": "Repo Coin",
+      "name_cn": "Repo Coin",
+      "website": "https://repocoin.io",
+      "code": "REPO",
+      "issuer": "GCZNF24HPMYTV6NOEHI7Q5RJFFUI23JKUKY3H3XTQAFBQIBOHD5OXG3B",
+      "p1": "Bringing the $1 billion auto repossession industry onto the blockchain.",
+      "p1_cn": "将10亿美元的汽车行业带到区块链中。",
+      "p2": "Vehicle repossession just got easier.",
+      "p2_cn": "让汽车回收变得更加容易。"
+    },
+    {
+      "name": "CryptoTARI",
+      "name_cn": "CryptoTARI",
+      "website": "https://cryptotari.io",
+      "code": "TARI",
+      "issuer": "GD7UVDDJHJYKUXB4SJFIC6VJDQ4YADQCMRN3KLHJFV4H6NIUAEREVCO7",
+      "p1": "CryptoTARI is a pre-mined cryptocurrency which can also be released into circulation through charitable donations.",
+      "p1_cn": "CryptoTARI是一种预分配的币，用来做慈善。",
+      "p2": "It is a cryptocurrency that devotes a helping hand to those in need.",
+      "p2_cn": "它是用来帮助他人的加密货币。"
+    },
+    {
       "name": "SureRemit",
       "name_cn": "SureRemit",
       "website": "https://sureremit.co",
@@ -34,16 +56,16 @@
       "p2_cn": "总量1亿。ICO持续15天。"
     },
     {
-        "name": "E-GIFT Card",
-        "name_cn": "E-GIFT Card",
-        "website": "https://gft.network",
-        "code": "GFT",
-        "issuer": "GAAZUE4PKMKLA7QC2MPUIUXY7BZK2WUCK7Q5EELSDLK4FE3X4DZTSCKN",
-        "p1": "GFT is an asset based on the Stellar blockchain. Each gift card is backed by US dollars and contains the equivalent amount of the GFT tokens (i.e. 1 GFT = 1 USD).",
-        "p1_cn": "GFT是基于恒星的电子礼品卡。每个GFT都相当于1美元的礼品卡。",
-        "p2": "Promotional presale ends Aug 25. 75% OFF for 3M GFT.",
-        "p2_cn": "预售将持续到8月25日。将以2.5折出售3百万GFT。"
-      }
+      "name": "E-GIFT Card",
+      "name_cn": "E-GIFT Card",
+      "website": "https://gft.network",
+      "code": "GFT",
+      "issuer": "GAAZUE4PKMKLA7QC2MPUIUXY7BZK2WUCK7Q5EELSDLK4FE3X4DZTSCKN",
+      "p1": "GFT is an asset based on the Stellar blockchain. Each gift card is backed by US dollars and contains the equivalent amount of the GFT tokens (i.e. 1 GFT = 1 USD).",
+      "p1_cn": "GFT是基于恒星的电子礼品卡。每个GFT都相当于1美元的礼品卡。",
+      "p2": "Promotional presale ends Aug 25. 75% OFF for 3M GFT.",
+      "p2_cn": "预售将持续到8月25日。将以2.5折出售3百万GFT。"
+    }
   ],
   "prepare": [],
   "closed": []

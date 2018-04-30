@@ -1,0 +1,71 @@
+module.exports = {
+	"ongoing" : [
+			{
+				"name" : "Mobius",
+				"name_cn" : "Mobius",
+				"website" : "https://mobius.network",
+				"code" : "MOBI",
+				"issuer" : "GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH",
+				"p1" : "Mobius closes the gap between the internet world and blockchain world through innovative and simple protocols that introduce new standards for cross-blockchain login, payment, governance, and oracles.",
+				"p1_cn" : "Mobius是一个跨链支付解决方案。包括一套跨链通用协议API和DApp Store。",
+				"p2" : "The public sale start on Jan 18, 2018.",
+				"p2_cn" : "2018年1月18日开始公开交易。"
+			},
+			{
+				"name" : "Repo Coin",
+				"name_cn" : "Repo Coin",
+				"website" : "https://repocoin.io",
+				"code" : "REPO",
+				"issuer" : "GCZNF24HPMYTV6NOEHI7Q5RJFFUI23JKUKY3H3XTQAFBQIBOHD5OXG3B",
+				"p1" : "Bringing the $1 billion auto repossession industry onto the blockchain.",
+				"p1_cn" : "将10亿美元的汽车行业带到区块链中。",
+				"p2" : "Vehicle repossession just got easier.",
+				"p2_cn" : "让汽车回收变得更加容易。"
+			},
+			{
+				"name" : "CryptoTARI",
+				"name_cn" : "CryptoTARI",
+				"website" : "https://cryptotari.io",
+				"code" : "TARI",
+				"issuer" : "GD7UVDDJHJYKUXB4SJFIC6VJDQ4YADQCMRN3KLHJFV4H6NIUAEREVCO7",
+				"p1" : "CryptoTARI is a pre-mined cryptocurrency which can also be released into circulation through charitable donations.",
+				"p1_cn" : "CryptoTARI是一种预分配的币，用来做慈善。",
+				"p2" : "It is a cryptocurrency that devotes a helping hand to those in need.",
+				"p2_cn" : "它是用来帮助他人的加密货币。"
+			},
+			{
+				"name" : "SureRemit",
+				"name_cn" : "SureRemit",
+				"website" : "https://sureremit.co",
+				"code" : "RMT",
+				"issuer" : "GCVWTTPADC5YB5AYDKJCTUYSCJ7RKPGE4HT75NIZOUM4L7VRTS5EKLFN",
+				"p1" : "The SureRemit token (RMT) is an utility token built on the Stellar Network, designed to be used by immigrants and customers within the SureRemit platform.",
+				"p1_cn" : "RMT是基于恒星的用于支付的数字凭证。旨在供WureRemit平台内的移民和客户使用。",
+				"p2" : "Total Token Supply: One Billion RMT Tokens, One $RMT = $0.02",
+				"p2_cn" : "总共10亿RMT，1 $RMT = $0.02。"
+			},
+			{
+				"name" : "Smartlands",
+				"name_cn" : "Smartands",
+				"website" : "https://smartlands.io/",
+				"code" : "SLT",
+				"issuer" : "GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP",
+				"p1" : "Smartlands platform is designed to create a new class of low-risk future-proof tokens, secured by real, profitable assets in agriculture.",
+				"p1_cn" : "Smartlands平台计划做一个低成本的长期的农业代币，具体介绍看他们网站。",
+				"p2" : "Total supply 100,000,000 SLT. ICO last 15 days.",
+				"p2_cn" : "总量1亿。ICO持续15天。"
+			},
+			{
+				"name" : "E-GIFT Card",
+				"name_cn" : "E-GIFT Card",
+				"website" : "https://gft.network",
+				"code" : "GFT",
+				"issuer" : "GAAZUE4PKMKLA7QC2MPUIUXY7BZK2WUCK7Q5EELSDLK4FE3X4DZTSCKN",
+				"p1" : "GFT is an asset based on the Stellar blockchain. Each gift card is backed by US dollars and contains the equivalent amount of the GFT tokens (i.e. 1 GFT = 1 USD).",
+				"p1_cn" : "GFT是基于恒星的电子礼品卡。每个GFT都相当于1美元的礼品卡。",
+				"p2" : "Promotional presale ends Aug 25. 75% OFF for 3M GFT.",
+				"p2_cn" : "预售将持续到8月25日。将以2.5折出售3百万GFT。"
+			} ],
+	"prepare" : [],
+	"closed" : []
+}
