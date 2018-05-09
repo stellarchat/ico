@@ -80,5 +80,16 @@ module.exports = {
 				"display_decimals" : 7
 			}
 		}
-	}
+	},
+  "front2.cn" : {
+    "name" : "Dried Fish",
+    "website" : "https://front2.cn",
+    "assets" : {
+      "RMT" : {
+        "code" : "XYG",
+        "issuer" : "GCCVQB3LQ6AH7AHV7DO5BUMB2H4KGG5274SLI3DE6HW5YHNU3QRLFEEJ",
+        "display_decimals" : 7
+      }
+    }
+  }
 }
