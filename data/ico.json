@@ -12,6 +12,17 @@
       "p2_cn": "2018年1月18日开始公开交易。"
     },
     {
+      "name": "U919",
+      "name_cn": "Ultiledger纪念酒",
+      "website": "",
+      "code": "U919",
+      "issuer": "GDHISJW5E75ISBJOMCARPSIHXRBCEMP3LHTKZ755BEYSFAQXIBXHQIAN",
+      "p1": "Bring the traditional wine culture to the blockchain.",
+      "p1_cn": "将传统的文化带到区块链中。",
+      "p2": "Let the wine that is more fragrant and fragrant can be circulated.",
+      "p2_cn": "让越陈越香的酒可以流通。"
+    },
+    {
       "name": "Repo Coin",
       "name_cn": "Repo Coin",
       "website": "https://repocoin.io",

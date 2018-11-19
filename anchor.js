@@ -1,11 +1,11 @@
 module.exports = {
-	"gft.network" : {
-		"name" : "E-GIFT Card",
-		"website" : "https://gft.network",
+	"U919" : {
+		"name" : "U919",
+		"website" : "",
 		"assets" : {
-			"GFT" : {
-				"code" : "GFT",
-				"issuer" : "GAAZUE4PKMKLA7QC2MPUIUXY7BZK2WUCK7Q5EELSDLK4FE3X4DZTSCKN",
+			"U919" : {
+				"code" : "U919",
+				"issuer" : "GDHISJW5E75ISBJOMCARPSIHXRBCEMP3LHTKZ755BEYSFAQXIBXHQIAN",
 				"display_decimals" : 2
 			}
 		}
