@@ -10,6 +10,17 @@ module.exports = {
 			}
 		}
 	},
+	"MHC" : {
+    "name" : "MHC",
+    "website" : "",
+    "assets" : {
+      "U919" : {
+        "code" : "MHC",
+        "issuer" : "GDS5NDSBJNPOFRWSIMBRXVDMZV7AYPCL7Y4CBTSSJ77KH537637UIFDY",
+        "display_decimals" : 2
+      }
+    }
+  },
 	"mobius.network" : {
 		"name" : "Mobius",
 		"website" : "https://mobius.network",
@@ -89,6 +100,17 @@ module.exports = {
         "code" : "XYG",
         "issuer" : "GCCVQB3LQ6AH7AHV7DO5BUMB2H4KGG5274SLI3DE6HW5YHNU3QRLFEEJ",
         "display_decimals" : 7
+      }
+    }
+  },
+  "stronghold.co" : {
+    "name" : "Stronghold",
+    "website" : "https://stronghold.co/",
+    "assets" : {
+      "USD" : {
+        "code" : "USD",
+        "issuer" : "GBSTRUSD7IRX73RQZBL3RQUH6KS3O4NYFY3QCALDLZD77XMZOPWAVTUK",
+        "display_decimals" : 2
       }
     }
   }
