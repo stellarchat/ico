@@ -1,5 +1,16 @@
 module.exports = {
-	"U919" : {
+  "foxtrex.com" : {
+      "name" : "foxtrex.com",
+      "website" : "https://foxtrex.com",
+      "assets" : {
+        "ULT" : {
+          "code" : "ULT",
+          "issuer" : "GC76RMFNNXBFDSJRBXCABWLHXDK4ITVQSMI56DC2ZJVC3YOLLPCKKULT",
+          "display_decimals" : 2
+        }
+      }
+  },
+  "U919" : {
 		"name" : "U919",
 		"website" : "",
 		"assets" : {

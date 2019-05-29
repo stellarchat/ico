@@ -1,6 +1,17 @@
 {
   "ongoing": [
     {
+      "name": "Ultiledger",
+      "name_cn": "Ultiledger",
+      "website": "https://foxtrex.com",
+      "code": "ULT",
+      "issuer": "GC76RMFNNXBFDSJRBXCABWLHXDK4ITVQSMI56DC2ZJVC3YOLLPCKKULT",
+      "p1": "The next generation global self-financing blockchain protocol. Credit Circulation, Asset Circulation and Value Circulation.",
+      "p1_cn": "新一代全球自金融区块链协议。信用流通，资产流通，价值流通。在中国企业自金融领域已落地多个大中型企业。",
+      "p2": "The ULT token service on Stellar is provided by foxtrex.com",
+      "p2_cn": "恒星上的ULT Token由foxtrex.com提供服务。"
+    },
+    {
       "name": "Mobius",
       "name_cn": "Mobius",
       "website": "https://mobius.network",
