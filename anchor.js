@@ -114,14 +114,14 @@ module.exports = {
       }
     }
   },
-  "stronghold.co" : {
-    "name" : "Stronghold",
-    "website" : "https://stronghold.co/",
+  "jetmint.org" : {
+    "name" : "XYZ",
+    "website" : "https://jetmint.org",
     "assets" : {
-      "USD" : {
-        "code" : "USD",
-        "issuer" : "GBSTRUSD7IRX73RQZBL3RQUH6KS3O4NYFY3QCALDLZD77XMZOPWAVTUK",
-        "display_decimals" : 2
+      "XYZ" : {
+        "code" : "XYZ",
+        "issuer" : "GCQHDR2KSCVNULFX3C2NKFEXNJEUELJVMQAN3OCLAM5KXG4DWQSRMXYZ",
+        "display_decimals" : 7
       }
     }
   }

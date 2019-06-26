@@ -66,6 +66,17 @@ module.exports = {
         "p2" : "The public sale start on Jun 1, 2018.",
         "p2_cn" : "2018年6月1日开始公开交易。"
       },
+      {
+        "name" : "XYZ",
+        "name_cn" : "小姨子",
+        "website" : "https://jetmint.org",
+        "code" : "XYZ",
+        "issuer" : "GCQHDR2KSCVNULFX3C2NKFEXNJEUELJVMQAN3OCLAM5KXG4DWQSRMXYZ",
+        "p1" : "XYZ，issued by Jetmint Foundation.",
+        "p1_cn" : "XYZ由Jetmint基金会发行。",
+        "p2" : "Jetmint has built community-oriented, shared, trusted and peer to peer infrastructure for Token VC on blockchain.",
+        "p2_cn" : "Jetmint面向社群，构建共用、可信任的点对点区块链创投基础设施。"
+      },
 			{
 				"name" : "SureRemit",
 				"name_cn" : "SureRemit",
